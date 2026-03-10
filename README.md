@@ -2,7 +2,7 @@
 
 **Senior Fullstack Developer** with 7+ years of experience building scalable, production-grade web applications — from fintech platforms and real-time systems to enterprise SaaS products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://usama-akram.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://usama-akram.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usama-akram)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.u.akram1997@gmail.com)
 
@@ -51,23 +51,23 @@
 
 ## 💼 Experience
 
-| Period | Role | Company |
-|--------|------|---------|
-| May 2023 — Present | Senior Software Engineer | Tkxel |
-| Mar 2022 — May 2023 | Software Engineer | Taro Technologies |
-| Jun 2020 — Mar 2022 | Associate Software Engineer | Kryptomind Inc |
-| Mar 2019 — Jun 2020 | Associate Software Engineer | Stackworx |
+| Period              | Role                        | Company           |
+| ------------------- | --------------------------- | ----------------- |
+| May 2023 — Present  | Senior Software Engineer    | Tkxel             |
+| Mar 2022 — May 2023 | Software Engineer           | Taro Technologies |
+| Jun 2020 — Mar 2022 | Associate Software Engineer | Kryptomind Inc    |
+| Mar 2019 — Jun 2020 | Associate Software Engineer | Stackworx         |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Signal** | Multi-tenant SaaS platform for US-based security companies — contract management, officer shifts, payrolls | NestJS, PostgreSQL, React, Azure |
-| **Open-Advisor** | Idea pitching & advisory meeting platform for founders and professionals | NestJS, Socket.io, Stripe, Zoom |
-| **Taro** | Buy Now Pay Later fintech platform for the Pakistani market | Node.js, Express.js, MySQL, Stripe |
-| **Horizon Auto** | Real-time car auction platform with live bidding and direct sales | Node.js, Socket.io, MySQL, Stripe |
+| Project          | Description                                                                                                | Stack                              |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **Signal**       | Multi-tenant SaaS platform for US-based security companies — contract management, officer shifts, payrolls | NestJS, PostgreSQL, React, Azure   |
+| **Open-Advisor** | Idea pitching & advisory meeting platform for founders and professionals                                   | NestJS, Socket.io, Stripe, Zoom    |
+| **Taro**         | Buy Now Pay Later fintech platform for the Pakistani market                                                | Node.js, Express.js, MySQL, Stripe |
+| **Horizon Auto** | Real-time car auction platform with live bidding and direct sales                                          | Node.js, Socket.io, MySQL, Stripe  |
 
 ---
 
